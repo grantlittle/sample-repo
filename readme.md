@@ -1,6 +1,6 @@
 # Overview
 
 ## Attendees
-Grant Little
+* Grant Little
+* Ben Greenway
 
-Ben Greenway
