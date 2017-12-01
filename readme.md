@@ -2,4 +2,5 @@
 
 ## Attendees
 * Grant Little
+* Yet another
 
